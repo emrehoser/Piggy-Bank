@@ -1,2 +1,2 @@
-# Piggy-Bank
-A graph theory project to solve a piggy bank riddle
+# CMPE250-Fall-2018-Project3
+project3
